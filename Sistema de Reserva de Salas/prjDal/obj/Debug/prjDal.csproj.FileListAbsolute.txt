@@ -1,0 +1,213 @@
+D:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+D:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDal.dll
+D:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDal.pdb
+D:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDil.dll
+D:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDto.dll
+D:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDil.pdb
+D:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDil.dll.config
+D:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDto.pdb
+D:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\obj\Debug\prjDal.dll
+D:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\obj\Debug\prjDal.pdb
+E:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDal.dll
+E:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDal.pdb
+E:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDil.dll
+E:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDto.dll
+E:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDil.pdb
+E:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDto.pdb
+E:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+E:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\obj\Debug\prjDal.dll
+E:\SENAI\TCC\prjReservas_SESI_SENAI\prjDal\obj\Debug\prjDal.pdb
+F:\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDal.dll
+F:\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDal.pdb
+F:\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDil.dll
+F:\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDto.dll
+F:\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDil.pdb
+F:\prjReservas_SESI_SENAI\prjDal\bin\Debug\prjDto.pdb
+F:\prjReservas_SESI_SENAI\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+F:\prjReservas_SESI_SENAI\prjDal\obj\Debug\prjDal.dll
+F:\prjReservas_SESI_SENAI\prjDal\obj\Debug\prjDal.pdb
+D:\prjReservas_SESI_SENAI(Atualizado)\prjDal\bin\Debug\prjDal.dll
+D:\prjReservas_SESI_SENAI(Atualizado)\prjDal\bin\Debug\prjDal.pdb
+D:\prjReservas_SESI_SENAI(Atualizado)\prjDal\bin\Debug\prjDil.dll
+D:\prjReservas_SESI_SENAI(Atualizado)\prjDal\bin\Debug\prjDto.dll
+D:\prjReservas_SESI_SENAI(Atualizado)\prjDal\bin\Debug\prjDil.pdb
+D:\prjReservas_SESI_SENAI(Atualizado)\prjDal\bin\Debug\prjDil.dll.config
+D:\prjReservas_SESI_SENAI(Atualizado)\prjDal\bin\Debug\prjDto.pdb
+D:\prjReservas_SESI_SENAI(Atualizado)\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+D:\prjReservas_SESI_SENAI(Atualizado)\prjDal\obj\Debug\prjDal.dll
+D:\prjReservas_SESI_SENAI(Atualizado)\prjDal\obj\Debug\prjDal.pdb
+E:\prjReservas_SESI_SENAI(Atualizado)\prjDal\bin\Debug\prjDal.dll
+E:\prjReservas_SESI_SENAI(Atualizado)\prjDal\bin\Debug\prjDal.pdb
+E:\prjReservas_SESI_SENAI(Atualizado)\prjDal\bin\Debug\prjDil.dll
+E:\prjReservas_SESI_SENAI(Atualizado)\prjDal\bin\Debug\prjDto.dll
+E:\prjReservas_SESI_SENAI(Atualizado)\prjDal\bin\Debug\prjDil.pdb
+E:\prjReservas_SESI_SENAI(Atualizado)\prjDal\bin\Debug\prjDto.pdb
+E:\prjReservas_SESI_SENAI(Atualizado)\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+E:\prjReservas_SESI_SENAI(Atualizado)\prjDal\obj\Debug\prjDal.dll
+E:\prjReservas_SESI_SENAI(Atualizado)\prjDal\obj\Debug\prjDal.pdb
+E:\TCC - 1.2\prjDal\bin\Debug\prjDal.dll
+E:\TCC - 1.2\prjDal\bin\Debug\prjDal.pdb
+E:\TCC - 1.2\prjDal\bin\Debug\prjDil.dll
+E:\TCC - 1.2\prjDal\bin\Debug\prjDto.dll
+E:\TCC - 1.2\prjDal\bin\Debug\prjDil.pdb
+E:\TCC - 1.2\prjDal\bin\Debug\prjDto.pdb
+E:\TCC - 1.2\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+E:\TCC - 1.2\prjDal\obj\Debug\prjDal.dll
+E:\TCC - 1.2\prjDal\obj\Debug\prjDal.pdb
+D:\TCC - 1.2\prjDal\bin\Debug\prjDal.dll
+D:\TCC - 1.2\prjDal\bin\Debug\prjDal.pdb
+D:\TCC - 1.2\prjDal\bin\Debug\prjDil.dll
+D:\TCC - 1.2\prjDal\bin\Debug\prjDto.dll
+D:\TCC - 1.2\prjDal\bin\Debug\prjDil.pdb
+D:\TCC - 1.2\prjDal\bin\Debug\prjDil.dll.config
+D:\TCC - 1.2\prjDal\bin\Debug\prjDto.pdb
+D:\TCC - 1.2\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+D:\TCC - 1.2\prjDal\obj\Debug\prjDal.dll
+D:\TCC - 1.2\prjDal\obj\Debug\prjDal.pdb
+C:\Users\Lucas\Desktop\Reservas 1.4\TCC - 1.4\prjDal\bin\Debug\prjDal.dll
+C:\Users\Lucas\Desktop\Reservas 1.4\TCC - 1.4\prjDal\bin\Debug\prjDal.pdb
+C:\Users\Lucas\Desktop\Reservas 1.4\TCC - 1.4\prjDal\bin\Debug\prjDil.dll
+C:\Users\Lucas\Desktop\Reservas 1.4\TCC - 1.4\prjDal\bin\Debug\prjDto.dll
+C:\Users\Lucas\Desktop\Reservas 1.4\TCC - 1.4\prjDal\bin\Debug\prjDil.pdb
+C:\Users\Lucas\Desktop\Reservas 1.4\TCC - 1.4\prjDal\bin\Debug\prjDil.dll.config
+C:\Users\Lucas\Desktop\Reservas 1.4\TCC - 1.4\prjDal\bin\Debug\prjDto.pdb
+C:\Users\Lucas\Desktop\Reservas 1.4\TCC - 1.4\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Reservas 1.4\TCC - 1.4\prjDal\obj\Debug\prjDal.dll
+C:\Users\Lucas\Desktop\Reservas 1.4\TCC - 1.4\prjDal\obj\Debug\prjDal.pdb
+C:\Users\Dell\Desktop\TCC - 1.5\prjDal\bin\Debug\prjDal.dll
+C:\Users\Dell\Desktop\TCC - 1.5\prjDal\bin\Debug\prjDal.pdb
+C:\Users\Dell\Desktop\TCC - 1.5\prjDal\bin\Debug\prjDil.dll
+C:\Users\Dell\Desktop\TCC - 1.5\prjDal\bin\Debug\prjDto.dll
+C:\Users\Dell\Desktop\TCC - 1.5\prjDal\bin\Debug\prjDil.pdb
+C:\Users\Dell\Desktop\TCC - 1.5\prjDal\bin\Debug\prjDil.dll.config
+C:\Users\Dell\Desktop\TCC - 1.5\prjDal\bin\Debug\prjDto.pdb
+C:\Users\Dell\Desktop\TCC - 1.5\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\TCC - 1.5\prjDal\obj\Debug\prjDal.dll
+C:\Users\Dell\Desktop\TCC - 1.5\prjDal\obj\Debug\prjDal.pdb
+C:\Users\Lucas\Desktop\TCC - 1.6\prjDal\bin\Debug\prjDal.dll
+C:\Users\Lucas\Desktop\TCC - 1.6\prjDal\bin\Debug\prjDal.pdb
+C:\Users\Lucas\Desktop\TCC - 1.6\prjDal\bin\Debug\prjDil.dll
+C:\Users\Lucas\Desktop\TCC - 1.6\prjDal\bin\Debug\prjDto.dll
+C:\Users\Lucas\Desktop\TCC - 1.6\prjDal\bin\Debug\prjDil.pdb
+C:\Users\Lucas\Desktop\TCC - 1.6\prjDal\bin\Debug\prjDil.dll.config
+C:\Users\Lucas\Desktop\TCC - 1.6\prjDal\bin\Debug\prjDto.pdb
+C:\Users\Lucas\Desktop\TCC - 1.6\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\TCC - 1.6\prjDal\obj\Debug\prjDal.dll
+C:\Users\Lucas\Desktop\TCC - 1.6\prjDal\obj\Debug\prjDal.pdb
+C:\Users\Lucas\Desktop\TCC - 1.7\prjDal\bin\Debug\prjDal.dll
+C:\Users\Lucas\Desktop\TCC - 1.7\prjDal\bin\Debug\prjDal.pdb
+C:\Users\Lucas\Desktop\TCC - 1.7\prjDal\bin\Debug\prjDil.dll
+C:\Users\Lucas\Desktop\TCC - 1.7\prjDal\bin\Debug\prjDto.dll
+C:\Users\Lucas\Desktop\TCC - 1.7\prjDal\bin\Debug\prjDil.pdb
+C:\Users\Lucas\Desktop\TCC - 1.7\prjDal\bin\Debug\prjDil.dll.config
+C:\Users\Lucas\Desktop\TCC - 1.7\prjDal\bin\Debug\prjDto.pdb
+C:\Users\Lucas\Desktop\TCC - 1.7\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\TCC - 1.7\prjDal\obj\Debug\prjDal.dll
+C:\Users\Lucas\Desktop\TCC - 1.7\prjDal\obj\Debug\prjDal.pdb
+C:\Users\Dell\Desktop\TCC - 1.8\prjDal\bin\Debug\prjDal.dll
+C:\Users\Dell\Desktop\TCC - 1.8\prjDal\bin\Debug\prjDal.pdb
+C:\Users\Dell\Desktop\TCC - 1.8\prjDal\bin\Debug\prjDil.dll
+C:\Users\Dell\Desktop\TCC - 1.8\prjDal\bin\Debug\prjDto.dll
+C:\Users\Dell\Desktop\TCC - 1.8\prjDal\bin\Debug\prjDil.pdb
+C:\Users\Dell\Desktop\TCC - 1.8\prjDal\bin\Debug\prjDil.dll.config
+C:\Users\Dell\Desktop\TCC - 1.8\prjDal\bin\Debug\prjDto.pdb
+C:\Users\Dell\Desktop\TCC - 1.8\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\TCC - 1.8\prjDal\obj\Debug\prjDal.dll
+C:\Users\Dell\Desktop\TCC - 1.8\prjDal\obj\Debug\prjDal.pdb
+C:\Users\Dell\Documents\SENAI\TCC - 1.8\prjDal\bin\Debug\prjDal.dll
+C:\Users\Dell\Documents\SENAI\TCC - 1.8\prjDal\bin\Debug\prjDal.pdb
+C:\Users\Dell\Documents\SENAI\TCC - 1.8\prjDal\bin\Debug\prjDil.dll
+C:\Users\Dell\Documents\SENAI\TCC - 1.8\prjDal\bin\Debug\prjDto.dll
+C:\Users\Dell\Documents\SENAI\TCC - 1.8\prjDal\bin\Debug\prjDil.pdb
+C:\Users\Dell\Documents\SENAI\TCC - 1.8\prjDal\bin\Debug\prjDil.dll.config
+C:\Users\Dell\Documents\SENAI\TCC - 1.8\prjDal\bin\Debug\prjDto.pdb
+C:\Users\Dell\Documents\SENAI\TCC - 1.8\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\SENAI\TCC - 1.8\prjDal\obj\Debug\prjDal.dll
+C:\Users\Dell\Documents\SENAI\TCC - 1.8\prjDal\obj\Debug\prjDal.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.9\prjDal\bin\Debug\prjDal.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.9\prjDal\bin\Debug\prjDal.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.9\prjDal\bin\Debug\prjDil.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.9\prjDal\bin\Debug\prjDto.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.9\prjDal\bin\Debug\prjDil.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.9\prjDal\bin\Debug\prjDil.dll.config
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.9\prjDal\bin\Debug\prjDto.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.9\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.9\prjDal\obj\Debug\prjDal.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.9\prjDal\obj\Debug\prjDal.pdb
+C:\Users\Dell\Documents\TCC - 1.10\prjDal\bin\Debug\prjDal.dll
+C:\Users\Dell\Documents\TCC - 1.10\prjDal\bin\Debug\prjDal.pdb
+C:\Users\Dell\Documents\TCC - 1.10\prjDal\bin\Debug\prjDil.dll
+C:\Users\Dell\Documents\TCC - 1.10\prjDal\bin\Debug\prjDto.dll
+C:\Users\Dell\Documents\TCC - 1.10\prjDal\bin\Debug\prjDil.pdb
+C:\Users\Dell\Documents\TCC - 1.10\prjDal\bin\Debug\prjDil.dll.config
+C:\Users\Dell\Documents\TCC - 1.10\prjDal\bin\Debug\prjDto.pdb
+C:\Users\Dell\Documents\TCC - 1.10\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\TCC - 1.10\prjDal\obj\Debug\prjDal.dll
+C:\Users\Dell\Documents\TCC - 1.10\prjDal\obj\Debug\prjDal.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.11\prjDal\bin\Debug\prjDal.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.11\prjDal\bin\Debug\prjDal.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.11\prjDal\bin\Debug\prjDil.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.11\prjDal\bin\Debug\prjDto.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.11\prjDal\bin\Debug\prjDil.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.11\prjDal\bin\Debug\prjDil.dll.config
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.11\prjDal\bin\Debug\prjDto.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.11\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.11\prjDal\obj\Debug\prjDal.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - 1.11\prjDal\obj\Debug\prjDal.pdb
+C:\Users\Dell\Desktop\TCC - 1.13\prjDal\bin\Debug\prjDal.dll
+C:\Users\Dell\Desktop\TCC - 1.13\prjDal\bin\Debug\prjDal.pdb
+C:\Users\Dell\Desktop\TCC - 1.13\prjDal\bin\Debug\prjDil.dll
+C:\Users\Dell\Desktop\TCC - 1.13\prjDal\bin\Debug\prjDto.dll
+C:\Users\Dell\Desktop\TCC - 1.13\prjDal\bin\Debug\prjDil.pdb
+C:\Users\Dell\Desktop\TCC - 1.13\prjDal\bin\Debug\prjDil.dll.config
+C:\Users\Dell\Desktop\TCC - 1.13\prjDal\bin\Debug\prjDto.pdb
+C:\Users\Dell\Desktop\TCC - 1.13\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\TCC - 1.13\prjDal\obj\Debug\prjDal.dll
+C:\Users\Dell\Desktop\TCC - 1.13\prjDal\obj\Debug\prjDal.pdb
+E:\TCC - 1.14\prjDal\bin\Debug\prjDal.dll
+E:\TCC - 1.14\prjDal\bin\Debug\prjDal.pdb
+E:\TCC - 1.14\prjDal\bin\Debug\prjDil.dll
+E:\TCC - 1.14\prjDal\bin\Debug\prjDto.dll
+E:\TCC - 1.14\prjDal\bin\Debug\prjDil.pdb
+E:\TCC - 1.14\prjDal\bin\Debug\prjDto.pdb
+E:\TCC - 1.14\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+E:\TCC - 1.14\prjDal\obj\Debug\prjDal.dll
+E:\TCC - 1.14\prjDal\obj\Debug\prjDal.pdb
+C:\Users\Aluno\Desktop\TCC - 1.14\prjDal\bin\Debug\prjDal.dll
+C:\Users\Aluno\Desktop\TCC - 1.14\prjDal\bin\Debug\prjDal.pdb
+C:\Users\Aluno\Desktop\TCC - 1.14\prjDal\bin\Debug\prjDil.dll
+C:\Users\Aluno\Desktop\TCC - 1.14\prjDal\bin\Debug\prjDto.dll
+C:\Users\Aluno\Desktop\TCC - 1.14\prjDal\bin\Debug\prjDil.pdb
+C:\Users\Aluno\Desktop\TCC - 1.14\prjDal\bin\Debug\prjDto.pdb
+C:\Users\Aluno\Desktop\TCC - 1.14\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\TCC - 1.14\prjDal\obj\Debug\prjDal.dll
+C:\Users\Aluno\Desktop\TCC - 1.14\prjDal\obj\Debug\prjDal.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - OFICAL\prjDal\bin\Debug\prjDal.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - OFICAL\prjDal\bin\Debug\prjDal.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - OFICAL\prjDal\bin\Debug\prjDil.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - OFICAL\prjDal\bin\Debug\prjDto.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - OFICAL\prjDal\bin\Debug\prjDil.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - OFICAL\prjDal\bin\Debug\prjDil.dll.config
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - OFICAL\prjDal\bin\Debug\prjDto.pdb
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - OFICAL\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - OFICAL\prjDal\obj\Debug\prjDal.dll
+C:\Users\Lucas\Documents\Visual Studio 2017\Projects\TCC - OFICAL\prjDal\obj\Debug\prjDal.pdb
+E:\TCC OFICIAL\TCC - OFICAL\prjDal\bin\Debug\prjDal.dll
+E:\TCC OFICIAL\TCC - OFICAL\prjDal\bin\Debug\prjDal.pdb
+E:\TCC OFICIAL\TCC - OFICAL\prjDal\bin\Debug\prjDil.dll
+E:\TCC OFICIAL\TCC - OFICAL\prjDal\bin\Debug\prjDto.dll
+E:\TCC OFICIAL\TCC - OFICAL\prjDal\bin\Debug\prjDil.pdb
+E:\TCC OFICIAL\TCC - OFICAL\prjDal\bin\Debug\prjDto.pdb
+E:\TCC OFICIAL\TCC - OFICAL\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+E:\TCC OFICIAL\TCC - OFICAL\prjDal\obj\Debug\prjDal.dll
+E:\TCC OFICIAL\TCC - OFICAL\prjDal\obj\Debug\prjDal.pdb
+C:\Users\Lucas\Documents\TCC - Completo\TCC - OFICAL\prjDal\bin\Debug\prjDal.dll
+C:\Users\Lucas\Documents\TCC - Completo\TCC - OFICAL\prjDal\bin\Debug\prjDal.pdb
+C:\Users\Lucas\Documents\TCC - Completo\TCC - OFICAL\prjDal\bin\Debug\prjDil.dll
+C:\Users\Lucas\Documents\TCC - Completo\TCC - OFICAL\prjDal\bin\Debug\prjDto.dll
+C:\Users\Lucas\Documents\TCC - Completo\TCC - OFICAL\prjDal\bin\Debug\prjDil.pdb
+C:\Users\Lucas\Documents\TCC - Completo\TCC - OFICAL\prjDal\bin\Debug\prjDil.dll.config
+C:\Users\Lucas\Documents\TCC - Completo\TCC - OFICAL\prjDal\bin\Debug\prjDto.pdb
+C:\Users\Lucas\Documents\TCC - Completo\TCC - OFICAL\prjDal\obj\Debug\prjDal.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Documents\TCC - Completo\TCC - OFICAL\prjDal\obj\Debug\prjDal.dll
+C:\Users\Lucas\Documents\TCC - Completo\TCC - OFICAL\prjDal\obj\Debug\prjDal.pdb

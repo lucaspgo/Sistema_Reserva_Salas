@@ -1,0 +1,113 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns:co.v2="urn:schemas-microsoft-com:clickonce.v2">
+  <asmv1:assemblyIdentity name="prjReservas_SESI_SENAI.exe" version="1.0.0.1" publicKeyToken="cf8abb22ef76347b" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="prjReservas_SESI_SENAI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="prjReservas_SESI_SENAI.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC Manifest Options
+          If you want to change the Windows User Account Control level replace the 
+          requestedExecutionLevel node with one of the following.
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         If you want to utilize File and Registry Virtualization for backward 
+         compatibility then delete the requestedExecutionLevel node.
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="4.0.30319.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="prjBll.dll" size="12288">
+      <assemblyIdentity name="prjBll" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>7284PCo/wXEZnNy5v/MmsM8QyFG+TtxV55yu/MrVYOQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="prjDal.dll" size="17408">
+      <assemblyIdentity name="prjDal" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>bGNr+5OwJptcry0+Fl5fD5eIyQlAyaWnv/s4OVnqodk=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="prjDil.dll" size="7680">
+      <assemblyIdentity name="prjDil" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>c2qJW6XDlQSxJoIpXkmCB9sMdxID3WtJB7YZi2yo2nA=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="prjDto.dll" size="14336">
+      <assemblyIdentity name="prjDto" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>dGLXwEuxB/GmGjwC1RL8VMyug8u6gUHQebnWzrEnZHY=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="prjReservas_SESI_SENAI.exe" size="5912032">
+      <assemblyIdentity name="prjReservas_SESI_SENAI" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+        <dsig:DigestValue>FTxCdKeWm8rWsYb0Teazzw3d8pg1+wBvMza81TY883A=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="prjReservas_SESI_SENAI.exe.config" size="186">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>GUHS+OFx1101tsQAmSxc2HiZ6DFfxLEUn0Es0Znho/o=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=LAPTOP-VIU396ND\Lucas" issuerKeyHash="9bd972be7b3b1dca58f50b24197727aa7f30332e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>9Nb66DkRf2HwFpHoFk/ob4bAJA9jXZ58UJLey4HdIsY=</DigestValue></Reference></SignedInfo><SignatureValue>epyIuWBQmnuVZTUct7xJnS7Brbb+7Vq7WqVE9VhVeNvR3ht29Sj/bGPSVN/t38BRX2BW487chTzEclQC62DIVODJRdN/+9tjQc1ITeqxPSmA5fH0bMxlyWLgE2KsAy5YmGqSaHINO3+NYNfnyeB9aOU2KNAhimk39iKNgCStmG0=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>tmGSOo2U267L6cmIEStIg5KZPSCh40+DwcOkV8Y/Hpfmd6pa1/1TLcolQudHLzos6wAIm3nQlMa06NIzYolFf68kbzy1Kfku+13OP+laPj/HmmCP9NY+Px6Nv9QfPPjuFSZ+qF1K6l0jZoTBuabnBTsMpGNNUJkNh43BCNcW/sk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="c622dd81cbde92507c9e5d630f24c0866fe84f16e89116f0617f1139e8fad6f4" Description="" Url=""><as:assemblyIdentity name="prjReservas_SESI_SENAI.exe" version="1.0.0.1" publicKeyToken="cf8abb22ef76347b" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=LAPTOP-VIU396ND\Lucas</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha256" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" /><DigestValue>gvQupVsYEkCrf9lNWlMxIgEU6sPlJ/bwYut5nbaTPx0=</DigestValue></Reference></SignedInfo><SignatureValue>LR3HHtjF3ShS3MiCkP9qrmDcTPIeGxA518D0KUwxBYUHF0xMSXyu4FVXnWI0DheDUuOzT/wO3+DQ4IDeQzNwC/Bb15KFyhQeip1vxUmJ3NWCj2vaFvIbs655iZcqMO/m151z7Q+CwgDHXrP601nHcDItrNZxf7r1DEFP6PFncIM=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>tmGSOo2U267L6cmIEStIg5KZPSCh40+DwcOkV8Y/Hpfmd6pa1/1TLcolQudHLzos6wAIm3nQlMa06NIzYolFf68kbzy1Kfku+13OP+laPj/HmmCP9NY+Px6Nv9QfPPjuFSZ+qF1K6l0jZoTBuabnBTsMpGNNUJkNh43BCNcW/sk=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB7TCCAVagAwIBAgIQXH2wG3cKGZpPsZ0eLHhFaDANBgkqhkiG9w0BAQsFADA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBWAEkAVQAzADkANgBOAEQAXABMAHUAYwBhAHMwHhcNMTcwNjIzMDIyMzQ0WhcNMTgwNjIzMDgyMzQ0WjA1MTMwMQYDVQQDHioATABBAFAAVABPAFAALQBWAEkAVQAzADkANgBOAEQAXABMAHUAYwBhAHMwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALZhkjqNlNuuy+nJiBErSIOSmT0goeNPg8HDpFfGPx6X5neqWtf9Uy3KJULnRy86LOsACJt50JTGtOjSM2KJRX+vJG88tSn5Lvtdzj/pWj4/x5pgj/TWPj8ejb/UHzz47hUmfqhdSupdI2aEwbmm5wU7DKRjTVCZDYeNwQjXFv7JAgMBAAEwDQYJKoZIhvcNAQELBQADgYEANqVulCaWRD6OGadq4tgZehty2sqRybnV97M/E47xmuwOSwV548u29qL5RsWWRhU2GXbD09mNwlAyzRYTNCqRKNUcN6UvjW3ffKe1rmEpouS/HJmHD5p6GvAjIxAZZqSZuxCx2uBRt1luqS4yZ2ce5uORHAnxora6QUpogtNMQZY=</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

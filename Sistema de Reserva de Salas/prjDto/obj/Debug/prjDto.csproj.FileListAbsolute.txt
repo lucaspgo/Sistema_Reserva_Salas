@@ -1,0 +1,50 @@
+D:\SENAI\TCC\prjReservas_SESI_SENAI\prjDto\bin\Debug\prjDto.dll
+D:\SENAI\TCC\prjReservas_SESI_SENAI\prjDto\bin\Debug\prjDto.pdb
+D:\SENAI\TCC\prjReservas_SESI_SENAI\prjDto\obj\Debug\prjDto.csprojResolveAssemblyReference.cache
+D:\SENAI\TCC\prjReservas_SESI_SENAI\prjDto\obj\Debug\prjDto.dll
+D:\SENAI\TCC\prjReservas_SESI_SENAI\prjDto\obj\Debug\prjDto.pdb
+E:\SENAI\TCC\prjReservas_SESI_SENAI\prjDto\bin\Debug\prjDto.dll
+E:\SENAI\TCC\prjReservas_SESI_SENAI\prjDto\bin\Debug\prjDto.pdb
+E:\SENAI\TCC\prjReservas_SESI_SENAI\prjDto\obj\Debug\prjDto.csprojResolveAssemblyReference.cache
+E:\SENAI\TCC\prjReservas_SESI_SENAI\prjDto\obj\Debug\prjDto.dll
+E:\SENAI\TCC\prjReservas_SESI_SENAI\prjDto\obj\Debug\prjDto.pdb
+F:\prjReservas_SESI_SENAI\prjDto\bin\Debug\prjDto.dll
+F:\prjReservas_SESI_SENAI\prjDto\bin\Debug\prjDto.pdb
+F:\prjReservas_SESI_SENAI\prjDto\obj\Debug\prjDto.csprojResolveAssemblyReference.cache
+F:\prjReservas_SESI_SENAI\prjDto\obj\Debug\prjDto.dll
+F:\prjReservas_SESI_SENAI\prjDto\obj\Debug\prjDto.pdb
+C:\Users\Lucas\Desktop\Reservas 1.4\TCC - 1.4\prjDto\bin\Debug\prjDto.dll
+C:\Users\Lucas\Desktop\Reservas 1.4\TCC - 1.4\prjDto\bin\Debug\prjDto.pdb
+C:\Users\Lucas\Desktop\Reservas 1.4\TCC - 1.4\prjDto\obj\Debug\prjDto.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\Reservas 1.4\TCC - 1.4\prjDto\obj\Debug\prjDto.dll
+C:\Users\Lucas\Desktop\Reservas 1.4\TCC - 1.4\prjDto\obj\Debug\prjDto.pdb
+C:\Users\Dell\Desktop\TCC - 1.5\prjDto\bin\Debug\prjDto.dll
+C:\Users\Dell\Desktop\TCC - 1.5\prjDto\bin\Debug\prjDto.pdb
+C:\Users\Dell\Desktop\TCC - 1.5\prjDto\obj\Debug\prjDto.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\TCC - 1.5\prjDto\obj\Debug\prjDto.dll
+C:\Users\Dell\Desktop\TCC - 1.5\prjDto\obj\Debug\prjDto.pdb
+C:\Users\Lucas\Desktop\TCC - 1.7\prjDto\bin\Debug\prjDto.dll
+C:\Users\Lucas\Desktop\TCC - 1.7\prjDto\bin\Debug\prjDto.pdb
+C:\Users\Lucas\Desktop\TCC - 1.7\prjDto\obj\Debug\prjDto.csprojResolveAssemblyReference.cache
+C:\Users\Lucas\Desktop\TCC - 1.7\prjDto\obj\Debug\prjDto.dll
+C:\Users\Lucas\Desktop\TCC - 1.7\prjDto\obj\Debug\prjDto.pdb
+C:\Users\Dell\Documents\SENAI\TCC - 1.8\prjDto\bin\Debug\prjDto.dll
+C:\Users\Dell\Documents\SENAI\TCC - 1.8\prjDto\bin\Debug\prjDto.pdb
+C:\Users\Dell\Documents\SENAI\TCC - 1.8\prjDto\obj\Debug\prjDto.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Documents\SENAI\TCC - 1.8\prjDto\obj\Debug\prjDto.dll
+C:\Users\Dell\Documents\SENAI\TCC - 1.8\prjDto\obj\Debug\prjDto.pdb
+C:\Users\Dell\Desktop\TCC - 1.13\prjDto\bin\Debug\prjDto.dll
+C:\Users\Dell\Desktop\TCC - 1.13\prjDto\bin\Debug\prjDto.pdb
+C:\Users\Dell\Desktop\TCC - 1.13\prjDto\obj\Debug\prjDto.csprojResolveAssemblyReference.cache
+C:\Users\Dell\Desktop\TCC - 1.13\prjDto\obj\Debug\prjDto.dll
+C:\Users\Dell\Desktop\TCC - 1.13\prjDto\obj\Debug\prjDto.pdb
+E:\TCC - 1.14\prjDto\bin\Debug\prjDto.dll
+E:\TCC - 1.14\prjDto\bin\Debug\prjDto.pdb
+E:\TCC - 1.14\prjDto\obj\Debug\prjDto.csprojResolveAssemblyReference.cache
+E:\TCC - 1.14\prjDto\obj\Debug\prjDto.dll
+E:\TCC - 1.14\prjDto\obj\Debug\prjDto.pdb
+C:\Users\Aluno\Desktop\TCC - 1.14\prjDto\bin\Debug\prjDto.dll
+C:\Users\Aluno\Desktop\TCC - 1.14\prjDto\bin\Debug\prjDto.pdb
+C:\Users\Aluno\Desktop\TCC - 1.14\prjDto\obj\Debug\prjDto.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\TCC - 1.14\prjDto\obj\Debug\prjDto.dll
+C:\Users\Aluno\Desktop\TCC - 1.14\prjDto\obj\Debug\prjDto.pdb
